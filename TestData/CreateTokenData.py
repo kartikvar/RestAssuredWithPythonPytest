@@ -1,9 +1,9 @@
-valid_data = {
+create_token_valid_data = {
     "username": "admin",
     "password": "password123"
 }
 
-invalid_data = [
+create_token_invalid_data = [
     {
         "username": "admin",
         "password": "password"
